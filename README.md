@@ -16,3 +16,4 @@ My name is Takuya Soga
 3. ぶどう
 
 まーた編集しました
+さらーに編集しました
