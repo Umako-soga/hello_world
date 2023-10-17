@@ -14,3 +14,5 @@ My name is Takuya Soga
 1. リンゴ
 2. みかん
 3. ぶどう
+
+まーた編集しました
