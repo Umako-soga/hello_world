@@ -13,3 +13,4 @@
 2. みかん
 3. ぶどう
  New line added by a local environment.
+hello, world
